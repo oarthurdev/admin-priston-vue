@@ -16,4 +16,7 @@ npm run build
 npm run build --report
 ```
 
-#### Project in development.
+## Project in development.
+### If you want to help in development, contact me on skype.
+
+#### User: arthur_mod
